@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+scikit-image
+seaborn
+matplotlib
+wordcloud
+opencv-python
+torch
+torchvision
+torchtext
+kaggle
+tqdm
